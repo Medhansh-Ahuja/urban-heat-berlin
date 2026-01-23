@@ -11,3 +11,5 @@ data/raw/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+code/cache/
+code/.ipynb_checkpoints/
