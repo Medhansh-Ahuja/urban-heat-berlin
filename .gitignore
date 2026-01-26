@@ -13,3 +13,5 @@ data/raw/
 .ipynb_checkpoints/
 code/cache/
 code/.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
